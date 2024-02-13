@@ -1,0 +1,2 @@
+# Newscaster
+Online news aggregator
